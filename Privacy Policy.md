@@ -1,3 +1,5 @@
+---
+
 ## 📜 Privacy Policy – Fission Bot
 
 **Effective Date:** 6/7/2025
